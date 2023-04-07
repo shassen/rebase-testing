@@ -3,3 +3,5 @@ this line will create conflict
 asdf asdf asdf
 
 rebase force test
+
+new commit test
